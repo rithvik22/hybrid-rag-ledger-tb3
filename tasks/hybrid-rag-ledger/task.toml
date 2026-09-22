@@ -6,7 +6,7 @@ artifacts = ["/app/output/results.json", "/app/ragkit"]
 
 [task]
 name = "terminal-bench/hybrid-rag-ledger"
-description = "Repair a multi-tenant hybrid RAG retrieval stack so BM25, dense cosine, RRF, eligibility, dedupe, and citation spans are jointly correct."
+description = "Repair a multi-tenant hybrid RAG retrieval stack so tenant ACL, revision collapse with tenant precedence, cycle-safe synonym expansion, vector validation, BM25, L2 cosine, weighted RRF, NFKC dedupe, and original-offset citations are jointly correct on seeded corpora."
 authors = [{ name = "Rithvik Reddy Velapati", email = "velapatirithvik@gmail.com" }]
 
 [metadata]
@@ -17,7 +17,7 @@ author_organization = ""
 category = "ML"
 subcategory = "Evaluation"
 tags = ["rag", "retrieval", "bm25", "rrf", "python", "evaluation", "debugging"]
-expert_time_estimate_hours = 6.0
+expert_time_estimate_hours = 8.0
 
 [verifier]
 timeout_sec = 300.0
