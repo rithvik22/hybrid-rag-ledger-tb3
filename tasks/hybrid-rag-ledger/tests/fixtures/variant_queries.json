@@ -1,0 +1,19 @@
+{
+  "queries": [
+    {
+      "query_id": "vq1",
+      "tenant_id": "acme",
+      "query": "refund unused seats within thirty days"
+    },
+    {
+      "query_id": "vq2",
+      "tenant_id": "bravo",
+      "query": "unused seats non-refundable"
+    },
+    {
+      "query_id": "vq3",
+      "tenant_id": "acme",
+      "query": "promotional credits expire"
+    }
+  ]
+}

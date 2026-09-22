@@ -1,0 +1,7 @@
+{
+  "active_embedding_model": "e5-v2",
+  "rrf_k": 60,
+  "bm25_k1": 1.2,
+  "bm25_b": 0.75,
+  "top_k": 5
+}

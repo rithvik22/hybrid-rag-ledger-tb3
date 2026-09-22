@@ -1,0 +1,8 @@
+tb3-ref/
+.DS_Store
+**/__pycache__/
+**/*.pyc
+.harbor/
+jobs/
+*.log
+.env
