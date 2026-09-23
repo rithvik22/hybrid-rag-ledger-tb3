@@ -1,0 +1,24 @@
+{"body": "delta refund window", "doc": "hid-doc-private-refund", "group": "hid-refund", "id": "hid-private-refund-4", "kind": "upsert", "seq": 30, "tenant": "delta", "vector": [1, 4], "version": 4}
+{"body": "quota clock archive", "doc": "hid-doc-fill-10", "group": "hid-fill-10", "id": "hid-fill-10", "kind": "upsert", "seq": 1010, "tenant": "foxtrot", "vector": [1, 1], "version": 1}
+{"body": "delta refund desk", "doc": "hid-doc-private-refund", "group": "hid-refund", "id": "hid-private-refund", "kind": "upsert", "seq": 20, "tenant": "delta", "vector": [1, 2], "version": 2}
+{"body": "license glossary", "doc": "hid-doc-shared-seat", "group": "hid-seat", "id": "hid-shared-seat", "kind": "upsert", "seq": 50, "tenant": "*", "vector": [1, 2], "version": 2}
+{"body": "catalog notice region", "doc": "hid-doc-fill-13", "group": "hid-fill-13", "id": "hid-fill-13", "kind": "upsert", "seq": 1013, "tenant": "echo", "vector": [1, 1], "version": 1}
+{"body": "notice region quota", "doc": "hid-doc-fill-08", "group": "hid-fill-08", "id": "hid-fill-08", "kind": "upsert", "seq": 1008, "tenant": "delta", "vector": [1, 1], "version": 1}
+{"body": "primary and secondary oncall contacts", "doc": "hid-doc-sla", "group": "hid-sla", "id": "hid-sla", "kind": "upsert", "seq": 60, "tenant": "echo", "vector": [1, 1], "version": 1}
+{"body": "clock archive catalog", "doc": "hid-doc-fill-11", "group": "hid-fill-11", "id": "hid-fill-11", "kind": "upsert", "seq": 1011, "tenant": "*", "vector": [1, 1], "version": 1}
+{"body": "archive catalog notice", "doc": "hid-doc-fill-06", "group": "hid-fill-06", "id": "hid-fill-06", "kind": "upsert", "seq": 1006, "tenant": "foxtrot", "vector": [1, 1], "version": 1}
+{"body": "archive catalog notice", "doc": "hid-doc-fill-12", "group": "hid-fill-12", "id": "hid-fill-12", "kind": "upsert", "seq": 1012, "tenant": "delta", "vector": [1, 1], "version": 1}
+{"body": "license members", "doc": "hid-doc-seat", "group": "hid-seat", "id": "hid-seat", "kind": "upsert", "seq": 40, "tenant": "foxtrot", "vector": [1, 3], "version": 3}
+{"body": "archive catalog notice", "doc": "hid-doc-fill-00", "group": "hid-fill-00", "id": "hid-fill-00", "kind": "upsert", "seq": 1000, "tenant": "delta", "vector": [1, 1], "version": 1}
+{"body": "region quota clock", "doc": "hid-doc-fill-09", "group": "hid-fill-09", "id": "hid-fill-09", "kind": "upsert", "seq": 1009, "tenant": "echo", "vector": [1, 1], "version": 1}
+{"body": "notice region quota", "doc": "hid-doc-fill-02", "group": "hid-fill-02", "id": "hid-fill-02", "kind": "upsert", "seq": 1002, "tenant": "foxtrot", "vector": [1, 1], "version": 1}
+{"body": "quota clock archive", "doc": "hid-doc-fill-04", "group": "hid-fill-04", "id": "hid-fill-04", "kind": "upsert", "seq": 1004, "tenant": "delta", "vector": [1, 1], "version": 1}
+{"body": "prepaid refund policy", "doc": "hid-doc-shared-refund", "group": "hid-refund", "id": "hid-shared-refund", "kind": "upsert", "seq": 10, "tenant": "*", "vector": [1, 2], "version": 2}
+{"body": "encryption rotates nightly", "doc": "hid-doc-key", "group": "hid-key", "id": "hid-key", "kind": "upsert", "seq": 70, "tenant": "delta", "vector": [1, 5], "version": 5}
+{"body": "catalog notice region", "doc": "hid-doc-fill-07", "group": "hid-fill-07", "id": "hid-fill-07", "kind": "upsert", "seq": 1007, "tenant": "*", "vector": [1, 1], "version": 1}
+{"body": "clock archive catalog", "doc": "hid-doc-fill-05", "group": "hid-fill-05", "id": "hid-fill-05", "kind": "upsert", "seq": 1005, "tenant": "echo", "vector": [1, 1], "version": 1}
+{"body": "notice region quota", "doc": "hid-doc-fill-14", "group": "hid-fill-14", "id": "hid-fill-14", "kind": "upsert", "seq": 1014, "tenant": "foxtrot", "vector": [1, 1], "version": 1}
+{"body": "region quota clock", "doc": "hid-doc-fill-15", "group": "hid-fill-15", "id": "hid-fill-15", "kind": "upsert", "seq": 1015, "tenant": "*", "vector": [1, 1], "version": 1}
+{"body": "catalog notice region", "doc": "hid-doc-fill-01", "group": "hid-fill-01", "id": "hid-fill-01", "kind": "upsert", "seq": 1001, "tenant": "echo", "vector": [1, 1], "version": 1}
+{"body": "replacement encryption story", "doc": "hid-doc-key-other", "group": "hid-key", "id": "hid-key", "kind": "upsert", "seq": 74, "tenant": "delta", "vector": [1, 9], "version": 9}
+{"body": "region quota clock", "doc": "hid-doc-fill-03", "group": "hid-fill-03", "id": "hid-fill-03", "kind": "upsert", "seq": 1003, "tenant": "*", "vector": [1, 1], "version": 1}

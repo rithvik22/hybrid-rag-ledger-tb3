@@ -1,0 +1,9 @@
+{
+  "queries": [
+    {
+      "query": "durable catalog",
+      "query_id": "boundary-query",
+      "tenant_id": "acme"
+    }
+  ]
+}

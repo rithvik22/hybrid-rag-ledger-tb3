@@ -1,0 +1,1 @@
+{"doc_id": "boundary-doc-writer", "embedding": [1, 1], "event_id": "boundary-writer", "group_id": "boundary-writer", "op": "upsert", "rev": 1, "sequence": 40, "tenant_id": "bravo", "text": "archive catalog notice"}

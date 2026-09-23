@@ -1,0 +1,1 @@
+{"doc_id": "boundary-doc-next", "embedding": [1, 6], "event_id": "boundary-next", "group_id": "boundary", "op": "upsert", "rev": 6, "sequence": 50, "tenant_id": "acme", "text": "durable catalog notice"}

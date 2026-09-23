@@ -1,0 +1,6 @@
+{"doc_id": "hid-doc-shared-refund-new", "embedding": [1, 5], "event_id": "hid-shared-refund-new", "group_id": "hid-refund", "op": "upsert", "rev": 5, "sequence": 300, "tenant_id": "*", "text": "prepaid credit voucher"}
+{"doc_id": "hid-doc-note-b", "embedding": [1, 1], "event_id": "hid-inc-b", "group_id": "hid-note", "op": "upsert", "rev": 1, "sequence": 400, "tenant_id": "*", "text": "region quota extra"}
+{"doc_id": "hid-doc-private-refund", "embedding": null, "event_id": "hid-refund-tomb", "group_id": "hid-refund", "op": "tombstone", "rev": 4, "sequence": 280, "tenant_id": "delta", "text": null}
+{"doc_id": "hid-doc-note-a", "embedding": [1, 1], "event_id": "hid-inc-a", "group_id": "hid-note", "op": "upsert", "rev": 1, "sequence": 400, "tenant_id": "*", "text": "region quota clock"}
+{"doc_id": "hid-doc-sla", "embedding": [1, 8], "event_id": "hid-sla", "group_id": "hid-sla", "op": "upsert", "rev": 8, "sequence": 500, "tenant_id": "echo", "text": "pages nobody"}
+{"doc_id": "hid-doc-note-a", "embedding": [1, 3], "event_id": "hid-inc-a", "group_id": "hid-note", "op": "upsert", "rev": 3, "sequence": 410, "tenant_id": "*", "text": "region quota replaced"}

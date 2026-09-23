@@ -1,0 +1,6 @@
+{"doc_id": "pub-doc-policy-2", "embedding": [1, 3], "event_id": "pub-same-2", "group_id": "pub-policy", "op": "upsert", "rev": 3, "sequence": 120, "tenant_id": "bravo", "text": "policy beta"}
+{"doc_id": "pub-doc-tie-a", "embedding": [1, 1], "event_id": "pub-tie-a", "group_id": "pub-tie", "op": "upsert", "rev": 1, "sequence": 100, "tenant_id": "acme", "text": "alpha tie marker"}
+{"doc_id": "pub-doc-policy-1", "embedding": [1, 3], "event_id": "pub-same-1", "group_id": "pub-policy", "op": "upsert", "rev": 3, "sequence": 110, "tenant_id": "bravo", "text": "policy alpha"}
+{"doc_id": "pub-doc-seat", "embedding": null, "event_id": "pub-seat-tomb", "group_id": "pub-seat", "op": "tombstone", "rev": 3, "sequence": 140, "tenant_id": "cedar", "text": null}
+{"doc_id": "pub-doc-key-old", "embedding": [1, 1], "event_id": "pub-key-stale", "group_id": "pub-key", "op": "upsert", "rev": 1, "sequence": 170, "tenant_id": "acme", "text": "old encryption"}
+{"doc_id": "pub-doc-oncall", "embedding": [1, 2], "event_id": "pub-dup", "group_id": "pub-oncall", "op": "upsert", "rev": 2, "sequence": 200, "tenant_id": "bravo", "text": "primary and secondary oncall contacts"}

@@ -1,0 +1,2 @@
+{"decision": "accepted", "doc_id": "pub-doc-suffix", "embedding": [1, 1], "event_id": "pub-suffix", "group_id": "pub-suffix", "op": "upsert", "rev": 1, "sequence": 80, "tenant_id": "*", "text": "archive catalog notice"}
+{"event_id": "torn"

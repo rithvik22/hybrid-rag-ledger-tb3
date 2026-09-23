@@ -1,0 +1,6 @@
+{"doc_id": "pub-doc-shared-refund-new", "embedding": [1, 5], "event_id": "pub-shared-refund-new", "group_id": "pub-refund", "op": "upsert", "rev": 5, "sequence": 300, "tenant_id": "*", "text": "prepaid credit voucher"}
+{"doc_id": "pub-doc-note-b", "embedding": [1, 1], "event_id": "pub-inc-b", "group_id": "pub-note", "op": "upsert", "rev": 1, "sequence": 400, "tenant_id": "*", "text": "region quota extra"}
+{"doc_id": "pub-doc-private-refund", "embedding": null, "event_id": "pub-refund-tomb", "group_id": "pub-refund", "op": "tombstone", "rev": 4, "sequence": 280, "tenant_id": "acme", "text": null}
+{"doc_id": "pub-doc-note-a", "embedding": [1, 1], "event_id": "pub-inc-a", "group_id": "pub-note", "op": "upsert", "rev": 1, "sequence": 400, "tenant_id": "*", "text": "region quota clock"}
+{"doc_id": "pub-doc-sla", "embedding": [1, 8], "event_id": "pub-sla", "group_id": "pub-sla", "op": "upsert", "rev": 8, "sequence": 500, "tenant_id": "bravo", "text": "pages nobody"}
+{"doc_id": "pub-doc-note-a", "embedding": [1, 3], "event_id": "pub-inc-a", "group_id": "pub-note", "op": "upsert", "rev": 3, "sequence": 410, "tenant_id": "*", "text": "region quota replaced"}

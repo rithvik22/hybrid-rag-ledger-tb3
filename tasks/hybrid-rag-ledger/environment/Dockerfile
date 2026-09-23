@@ -13,4 +13,4 @@ WORKDIR /app
 COPY . /app
 
 # Pre-create output directory for agent artifacts.
-RUN mkdir -p /app/output
+RUN mkdir -p /app/output /app/state

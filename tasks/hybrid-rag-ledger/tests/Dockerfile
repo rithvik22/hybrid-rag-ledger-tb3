@@ -10,6 +10,7 @@ RUN apt-get update \
     ca-certificates \
     python3 \
     python3-pip \
+    util-linux \
   && rm -rf /var/lib/apt/lists/*
 
 RUN python3 -m pip install --break-system-packages --no-cache-dir \
@@ -18,4 +19,4 @@ RUN python3 -m pip install --break-system-packages --no-cache-dir \
 
 COPY . /tests/
 
-RUN mkdir -p /app/output /app/data /app/ragkit
+RUN mkdir -p /app/output /app/data /app/state /app/ragkit

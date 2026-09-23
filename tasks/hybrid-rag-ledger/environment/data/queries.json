@@ -1,79 +1,49 @@
 {
   "queries": [
     {
-      "query_id": "q01",
-      "tenant_id": "acme",
-      "query": "refund window for unused seats"
+      "query": "prepaid credit",
+      "query_id": "pub-refund",
+      "tenant_id": "acme"
     },
     {
-      "query_id": "q02",
-      "tenant_id": "bravo",
-      "query": "The reimbursement of unused licenses"
+      "query": "prepaid credit",
+      "query_id": "pub-refund-other",
+      "tenant_id": "bravo"
     },
     {
-      "query_id": "q03",
-      "tenant_id": "cedar",
-      "query": "P1 outage escalation"
+      "query": "license members",
+      "query_id": "pub-seat",
+      "tenant_id": "cedar"
     },
     {
-      "query_id": "q04",
-      "tenant_id": "acme",
-      "query": "export file CSV download"
+      "query": "license glossary",
+      "query_id": "pub-seat-other",
+      "tenant_id": "bravo"
     },
     {
-      "query_id": "q05",
-      "tenant_id": "acme",
-      "query": "Proﬁle sync export"
+      "query": "encryption rotates",
+      "query_id": "pub-key",
+      "tenant_id": "acme"
     },
     {
-      "query_id": "q06",
-      "tenant_id": "cedar",
-      "query": "calibration report beam width"
+      "query": "phantom billing",
+      "query_id": "pub-phantom",
+      "tenant_id": "acme"
     },
     {
-      "query_id": "q07",
-      "tenant_id": "acme",
-      "query": "encryption key rotation schedule"
+      "query": "oncall contacts",
+      "query_id": "pub-oncall",
+      "tenant_id": "bravo"
     },
     {
-      "query_id": "q08",
-      "tenant_id": "acme",
-      "query": "what is the policy on the retention of the archive and the backups"
+      "query": "alpha tie",
+      "query_id": "pub-tie",
+      "tenant_id": "acme"
     },
     {
-      "query_id": "q09",
-      "tenant_id": "bravo",
-      "query": "acme contract refund window thirty days"
-    },
-    {
-      "query_id": "q10",
-      "tenant_id": "cedar",
-      "query": "sso SAML certificate rotation"
-    },
-    {
-      "query_id": "q11",
-      "tenant_id": "bravo",
-      "query": "webhook retry policy backoff"
-    },
-    {
-      "query_id": "q12",
-      "tenant_id": "bravo",
-      "query": "API rate limit quota per token"
-    },
-    {
-      "query_id": "q13",
-      "tenant_id": "bravo",
-      "query": "priority tickets response SLA"
-    },
-    {
-      "query_id": "q14",
-      "tenant_id": "acme",
-      "query": "sev1 downtime postmortem"
-    },
-    {
-      "query_id": "q15",
-      "tenant_id": "cedar",
-      "query": "gdpr erasure request subprocessor"
+      "query": "policy alpha",
+      "query_id": "pub-policy",
+      "tenant_id": "bravo"
     }
   ]
 }

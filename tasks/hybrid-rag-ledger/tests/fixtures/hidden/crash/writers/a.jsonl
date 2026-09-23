@@ -1,0 +1,6 @@
+{"doc_id": "hid-doc-policy-2", "embedding": [1, 3], "event_id": "hid-same-2", "group_id": "hid-policy", "op": "upsert", "rev": 3, "sequence": 120, "tenant_id": "echo", "text": "policy beta"}
+{"doc_id": "hid-doc-tie-a", "embedding": [1, 1], "event_id": "hid-tie-a", "group_id": "hid-tie", "op": "upsert", "rev": 1, "sequence": 100, "tenant_id": "delta", "text": "alpha tie marker"}
+{"doc_id": "hid-doc-policy-1", "embedding": [1, 3], "event_id": "hid-same-1", "group_id": "hid-policy", "op": "upsert", "rev": 3, "sequence": 110, "tenant_id": "echo", "text": "policy alpha"}
+{"doc_id": "hid-doc-seat", "embedding": null, "event_id": "hid-seat-tomb", "group_id": "hid-seat", "op": "tombstone", "rev": 3, "sequence": 140, "tenant_id": "foxtrot", "text": null}
+{"doc_id": "hid-doc-key-old", "embedding": [1, 1], "event_id": "hid-key-stale", "group_id": "hid-key", "op": "upsert", "rev": 1, "sequence": 170, "tenant_id": "delta", "text": "old encryption"}
+{"doc_id": "hid-doc-oncall", "embedding": [1, 2], "event_id": "hid-dup", "group_id": "hid-oncall", "op": "upsert", "rev": 2, "sequence": 200, "tenant_id": "echo", "text": "primary and secondary oncall contacts"}

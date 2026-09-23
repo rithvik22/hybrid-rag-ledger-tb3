@@ -1,0 +1,3 @@
+{"decision": "accepted", "doc_id": "corrupt-doc", "embedding": [1, 1], "event_id": "corrupt-ok", "group_id": "corrupt-group", "op": "upsert", "rev": 1, "sequence": 1, "tenant_id": "*", "text": "archive catalog notice"}
+this is not json
+{"event_id": "later"}

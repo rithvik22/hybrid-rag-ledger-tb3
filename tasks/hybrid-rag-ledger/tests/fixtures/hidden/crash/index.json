@@ -1,0 +1,26 @@
+{
+  "docs": [
+    {
+      "doc_id": "hid-phantom",
+      "embedding": [
+        9,
+        9
+      ],
+      "group_id": "hid-phantom",
+      "rev": 9,
+      "tenant_id": "*",
+      "text": "Phantom billing leak from the crashed index."
+    },
+    {
+      "doc_id": "hid-doc-shared-refund",
+      "embedding": [
+        1,
+        2
+      ],
+      "group_id": "hid-refund",
+      "rev": 2,
+      "tenant_id": "*",
+      "text": "prepaid refund policy"
+    }
+  ]
+}

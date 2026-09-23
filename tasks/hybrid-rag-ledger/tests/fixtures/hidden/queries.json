@@ -1,0 +1,49 @@
+{
+  "queries": [
+    {
+      "query": "prepaid credit",
+      "query_id": "hid-refund",
+      "tenant_id": "delta"
+    },
+    {
+      "query": "prepaid credit",
+      "query_id": "hid-refund-other",
+      "tenant_id": "echo"
+    },
+    {
+      "query": "license members",
+      "query_id": "hid-seat",
+      "tenant_id": "foxtrot"
+    },
+    {
+      "query": "license glossary",
+      "query_id": "hid-seat-other",
+      "tenant_id": "echo"
+    },
+    {
+      "query": "encryption rotates",
+      "query_id": "hid-key",
+      "tenant_id": "delta"
+    },
+    {
+      "query": "phantom billing",
+      "query_id": "hid-phantom",
+      "tenant_id": "delta"
+    },
+    {
+      "query": "oncall contacts",
+      "query_id": "hid-oncall",
+      "tenant_id": "echo"
+    },
+    {
+      "query": "alpha tie",
+      "query_id": "hid-tie",
+      "tenant_id": "delta"
+    },
+    {
+      "query": "policy alpha",
+      "query_id": "hid-policy",
+      "tenant_id": "echo"
+    }
+  ]
+}

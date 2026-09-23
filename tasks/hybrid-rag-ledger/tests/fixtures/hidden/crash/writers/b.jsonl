@@ -1,0 +1,6 @@
+{"doc_id": "hid-doc-tie-z", "embedding": [1, 1], "event_id": "hid-tie-z", "group_id": "hid-tie", "op": "upsert", "rev": 1, "sequence": 100, "tenant_id": "delta", "text": "zebra tie marker"}
+{"doc_id": "hid-doc-seat-back", "embedding": [1, 3], "event_id": "hid-seat-again", "group_id": "hid-seat", "op": "upsert", "rev": 3, "sequence": 150, "tenant_id": "foxtrot", "text": "license members extra"}
+{"doc_id": "hid-doc-seat-new", "embedding": [1, 6], "event_id": "hid-seat-restore", "group_id": "hid-seat", "op": "upsert", "rev": 6, "sequence": 160, "tenant_id": "foxtrot", "text": "license members restored"}
+{"doc_id": "hid-doc-key-mid", "embedding": [1, 4], "event_id": "hid-key-mid", "group_id": "hid-key", "op": "upsert", "rev": 4, "sequence": 180, "tenant_id": "delta", "text": "mid encryption"}
+{"doc_id": "hid-doc-oncall", "embedding": [1, 9], "event_id": "hid-dup", "group_id": "hid-oncall", "op": "upsert", "rev": 9, "sequence": 210, "tenant_id": "echo", "text": "pages nobody"}
+{"doc_id": "hid-doc-key", "embedding": [1, 9], "event_id": "hid-key", "group_id": "hid-key", "op": "upsert", "rev": 9, "sequence": 90, "tenant_id": "delta", "text": "replacement encryption story"}

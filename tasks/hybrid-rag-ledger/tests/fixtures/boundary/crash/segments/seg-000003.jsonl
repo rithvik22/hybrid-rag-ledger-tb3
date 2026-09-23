@@ -1,0 +1,1 @@
+{"decision": "accepted", "doc_id": "boundary-doc-bad", "embedding": [1, 6], "event_id": "boundary-bad", "group_id": "boundary", "op": "upsert", "rev": 6, "sequence": 25, "tenant_id": "acme", "text": "quota clock region"}

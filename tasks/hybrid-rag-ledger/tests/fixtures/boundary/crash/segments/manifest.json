@@ -1,0 +1,19 @@
+{
+  "segments": [
+    {
+      "bytes": 223,
+      "name": "seg-000001.jsonl",
+      "sha256": "71a83f261bd1c28a4759f478f2ba0b1fd28760a8e75689403fd8dcdc516c8e20"
+    },
+    {
+      "bytes": 226,
+      "name": "seg-000002.jsonl",
+      "sha256": "776cce837c6e377f15c59187b34bd845f0d301ef485a4ecfeaf47dcf7d2cf15c"
+    },
+    {
+      "bytes": 1,
+      "name": "seg-000003.jsonl",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+    }
+  ]
+}

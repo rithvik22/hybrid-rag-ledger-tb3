@@ -1,0 +1,24 @@
+{"body": "clock archive catalog", "doc": "pub-doc-fill-05", "group": "pub-fill-05", "id": "pub-fill-05", "kind": "upsert", "seq": 1005, "tenant": "bravo", "vector": [1, 1], "version": 1}
+{"body": "quota clock archive", "doc": "pub-doc-fill-04", "group": "pub-fill-04", "id": "pub-fill-04", "kind": "upsert", "seq": 1004, "tenant": "acme", "vector": [1, 1], "version": 1}
+{"body": "region quota clock", "doc": "pub-doc-fill-09", "group": "pub-fill-09", "id": "pub-fill-09", "kind": "upsert", "seq": 1009, "tenant": "bravo", "vector": [1, 1], "version": 1}
+{"body": "archive catalog notice", "doc": "pub-doc-fill-00", "group": "pub-fill-00", "id": "pub-fill-00", "kind": "upsert", "seq": 1000, "tenant": "acme", "vector": [1, 1], "version": 1}
+{"body": "primary and secondary oncall contacts", "doc": "pub-doc-sla", "group": "pub-sla", "id": "pub-sla", "kind": "upsert", "seq": 60, "tenant": "bravo", "vector": [1, 1], "version": 1}
+{"body": "license glossary", "doc": "pub-doc-shared-seat", "group": "pub-seat", "id": "pub-shared-seat", "kind": "upsert", "seq": 50, "tenant": "*", "vector": [1, 2], "version": 2}
+{"body": "archive catalog notice", "doc": "pub-doc-fill-06", "group": "pub-fill-06", "id": "pub-fill-06", "kind": "upsert", "seq": 1006, "tenant": "cedar", "vector": [1, 1], "version": 1}
+{"body": "archive catalog notice", "doc": "pub-doc-fill-12", "group": "pub-fill-12", "id": "pub-fill-12", "kind": "upsert", "seq": 1012, "tenant": "acme", "vector": [1, 1], "version": 1}
+{"body": "quota clock archive", "doc": "pub-doc-fill-10", "group": "pub-fill-10", "id": "pub-fill-10", "kind": "upsert", "seq": 1010, "tenant": "cedar", "vector": [1, 1], "version": 1}
+{"body": "encryption rotates nightly", "doc": "pub-doc-key", "group": "pub-key", "id": "pub-key", "kind": "upsert", "seq": 70, "tenant": "acme", "vector": [1, 5], "version": 5}
+{"body": "replacement encryption story", "doc": "pub-doc-key-other", "group": "pub-key", "id": "pub-key", "kind": "upsert", "seq": 74, "tenant": "acme", "vector": [1, 9], "version": 9}
+{"body": "catalog notice region", "doc": "pub-doc-fill-01", "group": "pub-fill-01", "id": "pub-fill-01", "kind": "upsert", "seq": 1001, "tenant": "bravo", "vector": [1, 1], "version": 1}
+{"body": "notice region quota", "doc": "pub-doc-fill-02", "group": "pub-fill-02", "id": "pub-fill-02", "kind": "upsert", "seq": 1002, "tenant": "cedar", "vector": [1, 1], "version": 1}
+{"body": "notice region quota", "doc": "pub-doc-fill-14", "group": "pub-fill-14", "id": "pub-fill-14", "kind": "upsert", "seq": 1014, "tenant": "cedar", "vector": [1, 1], "version": 1}
+{"body": "catalog notice region", "doc": "pub-doc-fill-07", "group": "pub-fill-07", "id": "pub-fill-07", "kind": "upsert", "seq": 1007, "tenant": "*", "vector": [1, 1], "version": 1}
+{"body": "acme refund desk", "doc": "pub-doc-private-refund", "group": "pub-refund", "id": "pub-private-refund", "kind": "upsert", "seq": 20, "tenant": "acme", "vector": [1, 2], "version": 2}
+{"body": "acme refund window", "doc": "pub-doc-private-refund", "group": "pub-refund", "id": "pub-private-refund-4", "kind": "upsert", "seq": 30, "tenant": "acme", "vector": [1, 4], "version": 4}
+{"body": "clock archive catalog", "doc": "pub-doc-fill-11", "group": "pub-fill-11", "id": "pub-fill-11", "kind": "upsert", "seq": 1011, "tenant": "*", "vector": [1, 1], "version": 1}
+{"body": "prepaid refund policy", "doc": "pub-doc-shared-refund", "group": "pub-refund", "id": "pub-shared-refund", "kind": "upsert", "seq": 10, "tenant": "*", "vector": [1, 2], "version": 2}
+{"body": "notice region quota", "doc": "pub-doc-fill-08", "group": "pub-fill-08", "id": "pub-fill-08", "kind": "upsert", "seq": 1008, "tenant": "acme", "vector": [1, 1], "version": 1}
+{"body": "license members", "doc": "pub-doc-seat", "group": "pub-seat", "id": "pub-seat", "kind": "upsert", "seq": 40, "tenant": "cedar", "vector": [1, 3], "version": 3}
+{"body": "region quota clock", "doc": "pub-doc-fill-03", "group": "pub-fill-03", "id": "pub-fill-03", "kind": "upsert", "seq": 1003, "tenant": "*", "vector": [1, 1], "version": 1}
+{"body": "catalog notice region", "doc": "pub-doc-fill-13", "group": "pub-fill-13", "id": "pub-fill-13", "kind": "upsert", "seq": 1013, "tenant": "bravo", "vector": [1, 1], "version": 1}
+{"body": "region quota clock", "doc": "pub-doc-fill-15", "group": "pub-fill-15", "id": "pub-fill-15", "kind": "upsert", "seq": 1015, "tenant": "*", "vector": [1, 1], "version": 1}

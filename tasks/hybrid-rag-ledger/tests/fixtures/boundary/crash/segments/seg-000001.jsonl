@@ -1,0 +1,1 @@
+{"decision": "accepted", "doc_id": "boundary-doc", "embedding": [1, 5], "event_id": "boundary-live", "group_id": "boundary", "op": "upsert", "rev": 5, "sequence": 10, "tenant_id": "acme", "text": "boundary catalog notice"}
